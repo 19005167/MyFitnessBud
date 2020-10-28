@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383999097835",
+    "firebase_url": "https://myfitnessbud-94952.firebaseio.com",
+    "project_id": "myfitnessbud-94952",
+    "storage_bucket": "myfitnessbud-94952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383999097835:android:14d2540ba4453765aef7ae",
+        "android_client_info": {
+          "package_name": "com.yeshen.myfitnessbud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383999097835-3p8l3kulnbgotv27qpsc850dv5hsv7ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yeshen.myfitnessbud",
+            "certificate_hash": "e23abe3f79bba167ba3369976f3535a17b35b6e2"
+          }
+        },
+        {
+          "client_id": "383999097835-au6tqesm491650994sk46gd8al7mm0lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuCFKS1_VwASvQ7NaRXYu6MHYLdIKeSzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383999097835-au6tqesm491650994sk46gd8al7mm0lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

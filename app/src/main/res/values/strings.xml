@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyFitnessBud</string>
+    <string name="pass_hint">Password...</string>
+    <string name="email_hint">Your Email...</string>
+    <string name="login_btn_text">Login into Account</string>
+    <string name="login_reg_btn_text" />
+    <string name="Login_regbtn">Create an account?</string>
+    <string name="logo_login">Welcome to FitnessBud</string>
+    <string name="login_logo">Welcome to My FitnessBud</string>
+    <string name="welcome_to_fitnessbud">Welcome to FitnessBud</string>
+    <string name="reg_btn">Register</string>
+    <string name="login_reg_txt">Register</string>
+    <string name="reg_password">Password</string>
+    <string name="reg_email">Email</string>
+
+    <string name="email_reg">Name</string>
+    <string name="Email_reg">Email</string>
+    <string name="password_reg">Password</string>
+    <string name="name_reg">Name</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
